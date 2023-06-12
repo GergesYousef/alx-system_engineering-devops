@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.js
+for d in ./*/ do rm *.js
